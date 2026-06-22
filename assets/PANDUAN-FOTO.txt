@@ -1,0 +1,35 @@
+PANDUAN MENGGANTI FOTO
+
+Masukkan foto Anda ke folder assets ini dengan nama persis berikut:
+
+1. foto-sampul.jpg
+   Foto utama untuk halaman pembuka dan bagian paling atas.
+   Saran: foto horizontal/landscape, rasio 16:9, minimal 1600 x 900 piksel.
+
+2. foto-luthi.jpg
+   Foto mempelai pria.
+   Saran: foto vertikal/portrait, rasio 3:4, minimal 900 x 1200 piksel.
+
+3. foto-indah.jpg
+   Foto mempelai wanita.
+   Saran: foto vertikal/portrait, rasio 3:4, minimal 900 x 1200 piksel.
+
+4. foto-latar-cerita.jpg
+   Foto latar untuk bagian cerita perjalanan.
+   Saran: foto horizontal, minimal 1600 x 900 piksel.
+
+5. foto-cerita-1.jpg
+6. foto-cerita-2.jpg
+7. foto-cerita-3.jpg
+   Foto-foto perjalanan kisah cinta.
+   Saran: rasio 4:3, minimal 1200 x 900 piksel.
+
+8. foto-penutup.jpg
+   Foto latar bagian hadiah dan penutup.
+   Saran: foto horizontal, minimal 1600 x 900 piksel.
+
+CATATAN:
+- Gunakan ekstensi .jpg, bukan .jpeg atau .png.
+- Jangan mengubah nama file.
+- Jika Windows menyembunyikan ekstensi, pastikan nama tidak menjadi foto-sampul.jpg.jpg.
+- Setelah mengganti foto, simpan lalu muat ulang browser dengan Ctrl+F5.
